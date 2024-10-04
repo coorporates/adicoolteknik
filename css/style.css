@@ -379,8 +379,8 @@
 
 /*** Carousel Hero Header Start ***/
 .hero-section {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(../img/1.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(../img/11.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -392,8 +392,8 @@
 }
 
 .hero-bg-half-1 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(../img/2.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(../img/22.jpg);
   clip-path: polygon(37% 0%, 100% 0%, 100% 100%, 0% 100%);
   filter: grayscale(10%);
   transform: scale(100% - 50%);
@@ -408,8 +408,8 @@
 }
 
 .hero-bg-half-2 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(../img/2.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(../img/22.jpg);
   clip-path: polygon(37% 0%, 100% 0%, 100% 100%, 0% 100%);
   filter: grayscale(10%);
   transform: scale(100% - 50%);
@@ -528,8 +528,8 @@
 .bg-breadcrumb {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(../img/banner-img.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(../img/banner-img2.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -550,8 +550,8 @@
 .banner {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url(../img/banner-img.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url(../img/banner-img2.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
